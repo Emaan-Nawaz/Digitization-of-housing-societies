@@ -46,7 +46,7 @@ Upon login, the system automatically redirects users to the dashboard correspond
 
 The landing page welcomes visitors with an overview of the platform's purpose. It includes navigation links (**Home, About, Contact**) and a **Login** button for existing users to access their role-based dashboard.
 
-![Home Page](./home-page.png)
+![Home Page](.C:\xampp\htdocs\finalcoding\images/home-page.png)
 
 ---
 
@@ -54,7 +54,7 @@ The landing page welcomes visitors with an overview of the platform's purpose. I
 
 Users log in using their registered email and password. New users can navigate to the registration page via the **"Register here"** link. Based on the role assigned during registration, the system authenticates the user and redirects them to their respective dashboard ( Admin, Resident, or Worke)r.
 
-![Login Page](./login-page.png)
+![Login Page](.C:\xampp\htdocs\finalcoding\images/login-page.png)
 
 ---
 
@@ -69,7 +69,7 @@ Once logged in as an **Admin**, the user is greeted with a full-featured dashboa
 
 This centralized panel gives the admin full control and visibility over society operations without needing separate tools or manual tracking.
 
-![Admin Panel](./admin-panel.png)
+![Admin Panel](.C:\xampp\htdocs\finalcoding\images/admin-panel.png)
 
 ---
 
@@ -84,7 +84,7 @@ Residents get a simplified, easy-to-use dashboard focused on their needs:
 
 This ensures residents can independently request services and stay updated without needing to contact the admin directly.
 
-![Resident Dashboard](./resident-dashboard.png)
+![Resident Dashboard](.C:\xampp\htdocs\finalcoding\images\resident-dashboard.png)
 
 ---
 
