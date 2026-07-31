@@ -46,7 +46,7 @@ Upon login, the system automatically redirects users to the dashboard correspond
 
 The landing page welcomes visitors with an overview of the platform's purpose. It includes navigation links (**Home, About, Contact**) and a **Login** button for existing users to access their role-based dashboard.
 
-![Home Page](.C:\xampp\htdocs\finalcoding\images/home-page.png)
+![Home Page](.C:/xampp/htdocs/finalcoding/images/home-page.png)
 
 ---
 
